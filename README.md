@@ -1,9 +1,6 @@
 # AngelsNotes
 Angel's Notes is a psychological mystery novel that follows Elizabeth as ordinary days slowly unravel into something far darker. Strange encounters, recurring memories, and unsettling coincidences blur the line between reality and the unknown, forcing her to question the people around her—and herself.
 
-
-# Angel's Notes
-
 **Angel's Notes** is a psychological mystery novel that follows **Elizabeth** as ordinary days slowly unravel into something far darker. Strange encounters, recurring memories, and unsettling coincidences blur the line between reality and the unknown, forcing her to question the people around her—and herself.
 
 This repository contains the source files for **Angel's Notes**, including chapters, story assets, and worldbuilding material used for publication on **NemxNovels**.
